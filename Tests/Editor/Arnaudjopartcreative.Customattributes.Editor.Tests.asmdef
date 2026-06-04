@@ -1,0 +1,14 @@
+{
+    "name": "Arnaudjopartcreative.Customattributes.Editor.Tests",
+    "references": [
+        "Arnaudjopartcreative.Customattributes.Editor",
+        "Arnaudjopartcreative.Customattributes"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

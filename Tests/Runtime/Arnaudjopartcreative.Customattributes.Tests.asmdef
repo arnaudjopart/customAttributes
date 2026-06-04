@@ -1,0 +1,11 @@
+{
+    "name": "Arnaudjopartcreative.Customattributes.Tests",
+    "references": [
+        "Arnaudjopartcreative.Customattributes"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

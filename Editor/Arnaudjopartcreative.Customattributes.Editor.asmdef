@@ -1,0 +1,10 @@
+{
+    "name": "Arnaudjopartcreative.Customattributes.Editor",
+    "references": [
+      "Arnaudjopartcreative.Customattributes"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
